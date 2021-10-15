@@ -6,3 +6,5 @@ Utilisation du motif d'architecture logicielle Modèle-Vue-Contrôleur : https:/
 Jeu disponible en deux versions :
  - version 1 : version Joueur contre Joueur
  - version 2 : version Joueur contre IA (code source de l'IA dans le fichier src/controleur/ControleurJeuIA )
+
+Projet créé en collaboration avec Tristan Biot.
